@@ -1,0 +1,21 @@
+# Data
+data/raw/
+*.csv
+*.xlsx
+
+# Power BI
+*.pbix
+*.pbit
+
+# SQL Server
+*.mdf
+*.ldf
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
